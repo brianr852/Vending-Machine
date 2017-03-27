@@ -15,10 +15,10 @@ This program simulates a vending machine
  * set remainder part of ( pennies /  5 ) to pennies 
  * output half dollars, quarters, dimes, nickels, and pennies
  
- Enter cost of item >50.00
-Enter amount paid > 47.39
-The item cost is $50.00
-You paid $47.39
-Your change is $2.61 : 5 halfdollars, 0 quarters, 1 dimes, 2 nickles, 0 pennies.
+ Enter cost of item >50.00<br />
+Enter amount paid > 47.39<br />
+The item cost is $50.00<br />
+You paid $47.39<br />
+Your change is $2.61 : 5 halfdollars, 0 quarters, 1 dimes, 2 nickles, 0 pennies.<br />
  
  
